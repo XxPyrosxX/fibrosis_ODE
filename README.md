@@ -49,6 +49,6 @@ This integration would provide a more comprehensive understanding of fibrosis dy
 
 ## Conclusion:
 The Fibrosis ODE code, coupled with the Tkinter window, provides a flexible and user-friendly tool for simulating and visualizing fibrosis scenarios.     
-he ongoing integration with an agent-based model demonstrates a multidimensional approach to studying complex biological processes.   
+The ongoing integration with an agent-based model demonstrates a multidimensional approach to studying complex biological processes.   
 This combined model holds the potential to offer more accurate and insightful simulations of fibroblast activity during myocardial infarction.   
     
